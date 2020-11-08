@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
-## Overview of the analysis: Explain the purpose of this analysis.
-- 
+## Overview of the analysis:
+- In this project I have picked a data set from amazon reviews regarding video games and used Pyspark to perform the ETL process by extracting the data, transforming the data and connecting to the database that was generated for me through the AWS webserver. With the reviews my goal is to try and determine if there is favorable review bias from the Vine members of our data set.
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
