@@ -18,4 +18,5 @@
 - 38.9% of the five_star reviews were non-vine
 <img width="1361" alt="Screen Shot 2020-11-08 at 6 59 01 PM" src="https://user-images.githubusercontent.com/67278193/98488026-cec9ca80-21f4-11eb-96ee-4aad73f98509.png">
 
-## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+## Summary: 
+-After I had come up with my analysis there does not appear to be any sort of positivity bias because the percentages shown above are very similar at 38%. To conclude the analysis the vine program does not show any bias.
